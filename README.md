@@ -1,3 +1,3 @@
 # weekly_training
 
-update
+Program - 1 : reviewed
