@@ -1,0 +1,12 @@
+input array 1 2 3 4 5
+segment tree as array [15, 6, 9, 3, 3, 4, 5, 1, 2]
+enter start index:0
+enter end index :1
+sum is :  3
+enter update index:2
+enter value:1
+segment tree as array [13, 4, 9, 3, 1, 4, 5, 1, 2]
+enter start index:0
+enter end index:3
+sum is:8
+[13, 4, 9, 3, 1, 4, 5, 1, 2]
