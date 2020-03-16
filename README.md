@@ -1,3 +1,23 @@
-# weekly_training
-program 1,2,4,5
-update
+# - Training
+1. done
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+# - Review
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
