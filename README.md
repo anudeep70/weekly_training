@@ -1,4 +1,4 @@
-# - Training
+# Training
 1. done(mon)
 2. done(mon)
 3. done(tue)
@@ -10,8 +10,8 @@
 9. 
 10. 
 
-# - Review
-1. 
+# Review
+1. Done
 2. 
 3. 
 4. 
