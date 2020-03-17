@@ -1,9 +1,9 @@
 # - Training
 1. done(mon)
 2. done(mon)
-3. 
+3. done(tue)
 4. 
-5. 
+5. done(tue)
 6. 
 7. 
 8. 
